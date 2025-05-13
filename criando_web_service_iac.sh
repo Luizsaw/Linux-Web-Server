@@ -2,13 +2,13 @@
 
 echo "Atualizando o sistema...."
 
-apt update -y
-apt upgrade -y
+apt-get update
+apt-get upgrade -y
 
 echo "Instalando pacotes necessários..."
 
-apt install apache2 -y
-apt install unzip -y
+apt-get install apache2 -y
+apt-get install unzip -y
 
 echo "Realizando download do site..."
 

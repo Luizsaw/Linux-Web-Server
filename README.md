@@ -27,11 +27,11 @@ Este projeto é um script Bash para automatizar a configuração de um servidor 
 1. Clone este repositório ou copie o conteúdo do script para seu ambiente Linux.
 2. Dê permissão de execução:
    ```bash
-   chmod +x script.sh
+   chmod +x criando_web_service_iac.sh
    ```
 3. Execute como root ou com `sudo`:
    ```bash
-   ./script.sh
+   ./criando_web_service_iac.sh
    ```
 
 ---

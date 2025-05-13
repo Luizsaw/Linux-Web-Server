@@ -5,7 +5,7 @@ echo "Atualizando o sistema...."
 apt update -y
 apt upgrade -y
 
-echo "Instalando softwares necessários..."
+echo "Instalando pacotes necessários..."
 
 apt install apache2 -y
 apt install unzip -y

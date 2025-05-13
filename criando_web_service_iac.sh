@@ -35,6 +35,8 @@ git add .
 git commit -m "Primeiro commit"
 git remote add origin https://github.com/Luizsaw/Linux-Web-Server.git
 git branch -m master main
-git push -u origin main
+
+#Neste projeto específico eu quero forçar o push
+git push -f origin main
  
 echo "Fim script..."
